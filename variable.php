@@ -16,10 +16,4 @@
 
 	echo $name.$br.$age.$br.$balance;
 
-
-
-
-
-
-
 ?>
